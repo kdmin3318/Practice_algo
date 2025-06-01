@@ -53,10 +53,10 @@ int main(void) {
     while(true) {
         int regions = bfs(n,m);
         if(regions>1) {
-            printf("%d", year);
+            cout<<year;
             break;
         } else if(regions==0) {
-            printf("0");
+            cout<<"0";
             break;
         }
         year++;
