@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int score[1000002];
-int d[1000002][1000002];
+int score[305];
+int d[305][305];
 
 int main(void){
     int n;
