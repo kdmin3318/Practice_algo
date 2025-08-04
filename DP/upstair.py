@@ -3,6 +3,9 @@ input = sys.stdin.readline
 
 n = int(input())
 s = [0]+[int(input()) for _ in range(n)]
+if n==1:
+    print(s[1])
+    sys.exit()
 
 d = [[0 for _ in range(3)] for _ in range(n+1)]
 d[1][1] = s[1]
