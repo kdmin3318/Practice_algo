@@ -17,3 +17,20 @@ def solution(survey, choices):
         else:
             answer += type_b
     return answer
+"""
+zip 이용하기!
+def solution(survey, choices):
+    score_dict = {k: 0 for k in "RTCFJMAN"}
+
+    for (char_a, char_b), choice in zip(survey, choices):
+        if choice<4:
+            score_dict[char_a] += 4-choice
+        elif score>4:
+            score_dict[char_b] += choice-4
+
+    indicators = [("R","T"), ("C", "F"), ("J","M"), ("A","N")]
+
+    answer = "".join([a if score_dict[a]>=score_dict[b] else b for a,b in indicators])
+
+    return answer
+"""
