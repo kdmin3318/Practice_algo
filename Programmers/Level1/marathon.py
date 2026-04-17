@@ -24,3 +24,4 @@ def solution(participant, completion):
       return p
 
   return participant[-1]
+"""
