@@ -5,4 +5,4 @@ def solution(n, m, section):
     if last<s:
       last = s+m-1
       answer += 1
-    return answer
+  return answer
