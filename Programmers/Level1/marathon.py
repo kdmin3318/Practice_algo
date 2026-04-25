@@ -11,7 +11,7 @@ def solution(participant, completion):
 1. collections의 Counter이용
 from collections import Counter
 def solution(participant, completion):
-  result = Counter(participant)  Counter(completion)
+  result = Counter(participant) - Counter(completion)
   return list(result.keys())[0]
 
 2. zip을 이용하기
