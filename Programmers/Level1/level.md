@@ -37,3 +37,4 @@
 | sorted의 key활용(lambda) | [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | [파이썬](Programmers/Level1/data.py) |
 | 초급 그리디 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [파이썬](Programmers/Level1/pokemon.py) |
 | 약수의 개수 활용 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [파이썬](Programmers/Level1/knight.py) |
+| zip 활용 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [파이썬](Programmers/Level1/inner-product.py) |
