@@ -1,0 +1,33 @@
+# 프로그래머스 Level 1문제 모음
+
+[문제집 링크]([https://www.acmicpc.net/workbook/view/7306](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1%2C2%2C3&languages=python3))
+
+| 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 연습 문제 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [파이썬](Basic/Small_Number.py) |
+| 기본 문제✔ | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [파이썬](Basic/A+B.py) |
+| 기본 문제✔ | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [파이썬](Basic/HelloWorld.py) |
+| 기본 문제✔ | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [파이썬](Basic/cat.py) |
+| 기본 문제✔ | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [파이썬](Basic/Four_op.py) |
+| 기본 문제✔ | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [정답 코드](Basic/Test.cpp), [파이썬](Basic/Test.py) |
+| 기본 문제✔ | 2752 | [세수정렬](https://www.acmicpc.net/problem/2752) | [정답 코드](Basic/sort.cpp), [파이썬](Basic/sort.py) |
+| 기본 문제✔ | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [정답 코드](Basic/leap_year.cpp), [파이썬](Basic/leap_year.cpp) |
+| 기본 문제✔ | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [정답 코드](Basic/Triple_Dice.cpp), [파이썬](Basic/Triple_Dice.py) |
+| 기본 문제✔ | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [정답 코드](Basic/Yutnori.cpp), [파이썬](Basic/Yutnori.py), [별해](Basic/Yutnori_1.py) |
+| 기본 문제✔ | 2576 | [홀수](https://www.acmicpc.net/problem/2576) | [정답 코드](Basic/odd.cpp), [파이썬](Basic/odd.py) |
+| 기본 문제✔ | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | [정답 코드](Basic/representation.cpp), [파이썬](Basic/representation.py) |
+| 기본 문제✔ | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [정답 코드](Basic/seven.cpp), [별해](Basic/seven_1.cpp), [파이썬](Basic/seven.py) |
+| 기본 문제✔ | 10093 | [숫자](https://www.acmicpc.net/problem/10093) | [정답 코드](Basic/num.py), [파이썬](Basic/num.cpp) |
+| 기본 문제✔ | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | [정답 코드](Basic/phone.cpp), [파이썬](Basic/phone.py) |
+| 기본 문제✔ | 10804 | [카드 역배치](https://www.acmicpc.net/problem/10804) | [정답 코드](Basic/card.cpp), [별해](Basic/card_1.cpp), [파이썬](Basic/card.py) |
+| 기본 문제✔ | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [정답 코드](Basic/rapid.cpp), [파이썬](Basic/rapid.cpp) |
+| 기본 문제✔ | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [정답 코드](Basic/star_1.cpp), [파이썬](Basic/star_1.py) |
+| 기본 문제✔ | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [정답 코드](Basic/star_2.cpp), [파이썬](Basic/star_2.py) |
+| 기본 문제✔ | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | [정답 코드](Basic/star_3.cpp), [파이썬](Basic/star_3.py) |
+| 기본 문제✔ | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [정답 코드](Basic/star_4.cpp), [파이썬](Basic/star_4.py) |
+| 기본 문제✔ | 2442 | [별 찍기 - 5](https://www.acmicpc.net/problem/2442) | [정답 코드](Basic/star_5.cpp), [파이썬](Basic/star_5.py) |
+| 기본 문제✔ | 2443 | [별 찍기 - 6](https://www.acmicpc.net/problem/2443) | [정답 코드](Basic/star_6.cpp), [파이썬](Basic/star_6.py) |
+| 기본 문제✔ | 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | [정답 코드](Basic/star_7.cpp), [파이썬](Basic/star_7.py) |
+| 기본 문제✔ | 2445 | [별 찍기 - 8](https://www.acmicpc.net/problem/2445) | [정답 코드](Basic/star_8.cpp), [파이썬](Basic/star_8.cpp) |
+| 기본 문제✔ | 2446 | [별 찍기 - 9](https://www.acmicpc.net/problem/2446) | [정답 코드](Basic/star_9.cpp), [파이썬](Basic/star_9.cpp) |
+| 기본 문제✔ | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [정답 코드](Basic/max.cpp), [파이썬](Basic/max.py) |
