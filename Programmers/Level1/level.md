@@ -3,7 +3,7 @@
 [문제집 링크]([https://www.acmicpc.net/workbook/view/7306](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1%2C2%2C3&languages=python3))
 
 | 문제 분류 | 문제 제목 | 정답 코드 |
-| :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: |
 | 누적 합 | [2016]([https://www.acmicpc.net/problem/10871](https://school.programmers.co.kr/learn/courses/30/lessons/12901)) | [파이썬](Programmers/Level1/2016.py) |
 | zip함수 활용 | [음양 더하기]([https://www.acmicpc.net/problem/1000](https://school.programmers.co.kr/learn/courses/30/lessons/76501)) | [파이썬](Programmers/Level1/absolute.py) |
 | sum,len 함수 활용 | [평균구하기]([https://www.acmicpc.net/problem/2557](https://school.programmers.co.kr/learn/courses/30/lessons/12944)) | [파이썬](Programmers/Level1/average.py) |
