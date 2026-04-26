@@ -34,3 +34,4 @@
 | 새로운 함수 생성 | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [파이썬](Programmers/Level1/video.py) |
 | lower,upper 함수 활용 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [파이썬](Programmers/Level1/strange.py) |
 | combinations 라이브러리 활용 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [파이썬](Programmers/Level1/prime.py) |
+| sorted의 key활용(lambda) | [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | [파이썬](Programmers/Level1/data.py) |
