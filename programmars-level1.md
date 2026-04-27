@@ -43,3 +43,4 @@
 | bfs기술을 활용한 시뮬레이션 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [파이썬](Programmers/Level1/park.py) |
 | 딕셔너리 활용 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [파이썬](Programmers/Level1/closer.py) |
 | 단순 수학공식 활용 | [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [파이썬](Programmers/Level1/bandage.py) |
+| 단순 수학공식 활용 | [하샤드 ](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [파이썬](Programmers/Level1/harshard.py) |
