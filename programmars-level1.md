@@ -12,7 +12,7 @@
 | 2차원 필드를 열로 저장하기 | [크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [파이썬](Programmers/Level1/crane.py) |
 | stack 활용 | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [파이썬](Programmers/Level1/dart.py) |
 | sort함수 활용 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) |  [파이썬](Programmers/Level1/descending_order.py) |
-| %연산자 활용 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)) | [파이썬](Programmers/Level1/divisor-num.py) |
+| %연산자 활용 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [파이썬](Programmers/Level1/divisor-num.py) |
 | sum함수 활용 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [파이썬](Programmers/Level1/divisor.py) |
 | slicing 활용| [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [파이썬](Programmers/Level1/fruit.py) |
 | stack 활용 | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [파이썬](Programmers/Level1/hambuger.py) |
@@ -41,3 +41,4 @@
 | 초급 그리디 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [파이썬](Programmers/Level1/gym-cloth.py) |
 | while문 활용 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [파이썬](Programmers/Level1/digit.py) |
 | bfs기술을 활용한 시뮬레이션 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [파이썬](Programmers/Level1/park.py) |
+| 딕셔너리 활용 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [파이썬](Programmers/Level1/closer.py) |
