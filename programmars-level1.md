@@ -39,4 +39,5 @@
 | 약수의 개수 활용 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [파이썬](Programmers/Level1/knight.py) |
 | zip 활용 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [파이썬](Programmers/Level1/inner-product.py) |
 | 초급 그리디 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [파이썬](Programmers/Level1/gym-cloth.py) |
-| while문 활 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [파이썬](Programmers/Level1/digit.py) |
+| while문 활용 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [파이썬](Programmers/Level1/digit.py) |
+| bfs기술을 활용한 시뮬레이션 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [파이썬](Programmers/Level1/park.py) |
