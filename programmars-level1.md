@@ -47,3 +47,4 @@
 | 단순 시뮬레이션 + 해시(set) | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | [파이썬](Programmers/Level1/important.py) |
 | input()함수 활용 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [파이썬](Programmers/Level1/star.py) |
 | BF기초, 딕셔너리 활용 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [파이썬](Programmers/Level1/password.py) |
+| 딕셔너리 활용 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [파이썬](Programmers/Level1/keyborad.py) |
