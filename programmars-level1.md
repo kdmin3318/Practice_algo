@@ -51,3 +51,4 @@
 | len 함수 활용 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [파이썬](Programmers/Level1/middle.py) |
 | for문 활용 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [파이썬](Programmers/Level1/split.py) |
 | 제곱 연산 활용 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [파이썬](Programmers/Level1/square.py) |
+| 단순 수학공식 활용 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [파이썬](Programmers/Level1/none.py) |
