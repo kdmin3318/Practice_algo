@@ -49,3 +49,4 @@
 | BF기초, 딕셔너리 활용 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [파이썬](Programmers/Level1/password.py) |
 | 딕셔너리 활용 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [파이썬](Programmers/Level1/keyborad.py) |
 | len 함수 활용 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [파이썬](Programmers/Level1/middle.py) |
+| for문 활용 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [파이썬](Programmers/Level1/split.py) |
