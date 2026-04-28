@@ -45,3 +45,4 @@
 | 단순 수학공식 활용 | [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [파이썬](Programmers/Level1/bandage.py) |
 | 단순 수학공식 활용 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [파이썬](Programmers/Level1/harshard.py) |
 | 단순 시뮬레이션 + 해시(set) | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | [파이썬](Programmers/Level1/important.py) |
+| input()함수 활용 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [파이썬](Programmers/Level1/star.py) |
