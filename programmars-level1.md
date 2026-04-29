@@ -52,3 +52,4 @@
 | for문 활용 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [파이썬](Programmers/Level1/split.py) |
 | 제곱 연산 활용 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [파이썬](Programmers/Level1/square.py) |
 | 단순 수학공식 활용 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [파이썬](Programmers/Level1/none.py) |
+| BF기초 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [파이썬](Programmers/Level1/screen.py) |
