@@ -53,3 +53,4 @@
 | 제곱 연산 활용 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [파이썬](Programmers/Level1/square.py) |
 | 단순 수학공식 활용 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [파이썬](Programmers/Level1/none.py) |
 | BF기초 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [파이썬](Programmers/Level1/screen.py) |
+| 문제 내용 코드 옮기기(시뮬레이션) | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [파이썬](Programmers/Level1/work.py) |
