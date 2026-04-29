@@ -57,3 +57,4 @@
 | 51 | int함수 활용(10진수) | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [파이썬](Programmers/Level1/ternary.py) |
 | 52 | BF기초, %연산자 응용 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [파이썬](Programmers/Level1/exam.py) |
 | 53 | 소수 서칭의 최적화 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [파이썬](Programmers/Level1/prime-search.py) |
+| 54 | 단순 시뮬레이션 | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [파이썬](Programmers/Level1/wallet.py) |
