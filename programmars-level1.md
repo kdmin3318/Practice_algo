@@ -54,3 +54,4 @@
 | 단순 수학공식 활용 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [파이썬](Programmers/Level1/none.py) |
 | BF기초 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [파이썬](Programmers/Level1/screen.py) |
 | 문제 내용 코드 옮기기(시뮬레이션) | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [파이썬](Programmers/Level1/work.py) |
+| int함수 활용(10진수) | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [파이썬](Programmers/Level1/ternary.py) |
