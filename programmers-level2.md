@@ -8,3 +8,4 @@
 | 2 | DP기초 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [파이썬](Programmers/Level2/tile.py) |
 | 3 | 시뮬레이션, 딕셔너리 활용 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [파이썬](Programmers/Level2/park.py) |
 | 4 | stack 기초 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [파이썬](Programmers/Level2/bracket.py) |
+| 5 | sort(정렬 문제) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [파이썬](Programmers/Level2/h-index.py) |
