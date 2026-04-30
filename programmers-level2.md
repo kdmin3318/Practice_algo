@@ -6,3 +6,4 @@
 | :--: | :--: | :--: | :--: |
 | 1 | 딕셔너리(해시) 활용, 경우의 수 공식 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [파이썬](Programmers/Level2/cloth.py) |
 | 2 | DP기초 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [파이썬](Programmers/Level2/tile.py) |
+| 2 | 시뮬레이션, 딕셔너리 활용 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [파이썬](Programmers/Level2/park.py) |
