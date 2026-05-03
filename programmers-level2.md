@@ -12,3 +12,4 @@
 | 6 | backtracking 기본 문제 | [N-Queens](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [파이썬](Programmers/Level2/N-Queens.py) |
 | 7 | bfs 문제 풀이(deque사용) | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [파이썬](Programmers/Level2/covid.py) |
 | 8 | BF, DFS 조합 풀이 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [파이썬](Programmers/Level2/power-grid.py) |
+| 9 | 이진탐색, 비트연산자(XOR) | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [파이썬](Programmers/Level2/tournament.py) |
