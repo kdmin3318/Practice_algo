@@ -14,3 +14,4 @@
 | 8 | BF, DFS 조합 풀이 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [파이썬](Programmers/Level2/power-grid.py) |
 | 9 | 이진탐색, 비트연산자(XOR) | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [파이썬](Programmers/Level2/tournament.py) |
 | 10 | 그리디 문제 풀이 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [파이썬](Programmers/Level2/joystick.py) |
+| 11 | BF, DFS 순열 풀이 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [파이썬](Programmers/Level2/fatigue.py) |
