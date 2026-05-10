@@ -19,3 +19,4 @@
 | 13 | 그리디 문제 풀이 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [파이썬](Programmers/Level2/jump.py) |
 | 14 | recursion 문제 풀이 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [파이썬](Programmers/Level2/hanoi.py) |
 | 15 | 그리디 문제 풀이(가장 큰 약수) | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [파이썬](Programmers/Level2/number-block.py) |
+| 16 | 시뮬레이션, 16진수 변환 | [(3차)n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [파이썬](Programmers/Level2/n-decimal.pyy) |
