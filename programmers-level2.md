@@ -22,4 +22,5 @@
 | 16 | 시뮬레이션, 16진수 변환 | [(3차)n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [파이썬](Programmers/Level2/n-decimal.py) |
 | 17 | queue 문제 풀이 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [파이썬](Programmers/Level2/skill-tree.py) |
 | 18 | bfs 문제 풀이(deque사용) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [파이썬](Programmers/Level2/game.py) |
-| 19 | bfs 문제 풀이(deque사용) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [파이썬](Programmers/Level2/big-number.py) |
+| 19 | 문자열 대소 비교(sorted, key) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [파이썬](Programmers/Level2/big-number.py) |
+| 20 | 시뮬레이션(수학적 이론) | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [파이썬](Programmers/Level2/vowels.py) |
