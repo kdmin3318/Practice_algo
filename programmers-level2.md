@@ -24,3 +24,4 @@
 | 18 | bfs 문제 풀이(deque사용) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [파이썬](Programmers/Level2/game.py) |
 | 19 | 문자열 대소 비교(sorted, key) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [파이썬](Programmers/Level2/big-number.py) |
 | 20 | 시뮬레이션(수학적 이론) | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [파이썬](Programmers/Level2/vowels.py) |
+| 21 | queue 문제 풀이(deque(maxlen)활용) | [(1차)캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [파이썬](Programmers/Level2/cache.py) |
