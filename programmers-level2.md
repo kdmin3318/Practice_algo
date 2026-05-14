@@ -27,4 +27,5 @@
 | 21 | queue 문제 풀이(deque(maxlen)활용) | [(1차)캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [파이썬](Programmers/Level2/cache.py) |
 | 22 | 문자열 정렬 활용, hash(딕셔너리, set)활용 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [파이썬](Programmers/Level2/phone-number.py) |
 | 23 | 그리디(수학적 이론), math라이브러리 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [파이썬](Programmers/Level2/rectangle.py) |
-| 24 | 0이 없는 진법 풀이(수학적 이론) | [123나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [파이썬](Programmers/Level2/124.py) |
+| 24 | 0이 없는 진법 풀이(수학적 이론) | [124나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [파이썬](Programmers/Level2/124.py) |
+| 25 | capitalize함수 활용 | [JadenCase문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [파이썬](Programmers/Level2/jadenCase.py) |
