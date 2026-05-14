@@ -30,4 +30,5 @@
 | 24 | 0이 없는 진법 풀이(수학적 이론) | [124나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [파이썬](Programmers/Level2/124.py) |
 | 25 | capitalize함수 활용 | [JadenCase문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [파이썬](Programmers/Level2/jadenCase.py) |
 | 26 | 삼중for문 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [파이썬](Programmers/Level2/matrix.py) |
-| 26 | 수학적 이론, math라이브러리 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [파이썬](Programmers/Level2/circle.py) |
+| 27 | 수학적 이론, math라이브러리 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [파이썬](Programmers/Level2/circle.py) |
+| 28 | 다중집합의 교집합, 합집합(Counter) | [(1차)뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [파이썬](Programmers/Level2/news.py) |
