@@ -58,3 +58,4 @@
 | 52 | BF기초, %연산자 응용 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [파이썬](Programmers/Level1/exam.py) |
 | 53 | 소수 서칭의 최적화 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [파이썬](Programmers/Level1/prime-search.py) |
 | 54 | 단순 시뮬레이션 | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [파이썬](Programmers/Level1/wallet.py) |
+| 54 | reverse()함수 활용 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [파이썬](Programmers/Level1/reverse.py) |
