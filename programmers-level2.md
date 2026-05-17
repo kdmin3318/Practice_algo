@@ -36,3 +36,4 @@
 | 30 | BFS(Pruning) 활용, DP 활용 | [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | [파이썬](Programmers/Level2/crime.py) |
 | 31 | BFS 활용 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [파이썬](Programmers/Level2/ricochet.py) |
 | 32 | bin()함수 활용 | [가장 큰 수 문제 풀이](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/big-number.py) |
+| 33 | 수학적 이론(원과 원점사이 거리) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [파이썬](Programmers/Level2/dot.py) |
