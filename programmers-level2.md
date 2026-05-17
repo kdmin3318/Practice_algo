@@ -32,3 +32,4 @@
 | 26 | 삼중for문 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [파이썬](Programmers/Level2/matrix.py) |
 | 27 | 수학적 이론, math라이브러리 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [파이썬](Programmers/Level2/circle.py) |
 | 28 | 다중집합의 교집합, 합집합(Counter) | [(1차)뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [파이썬](Programmers/Level2/news.py) |
+| 29 | BFS(Pruning, Greedy)활용 | [리프 노드 수](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | [파이썬](Programmers/Level2/leaf.py) |
