@@ -34,4 +34,5 @@
 | 28 | 다중집합의 교집합, 합집합(Counter) | [(1차)뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [파이썬](Programmers/Level2/news.py) |
 | 29 | BFS(Pruning, Greedy)활용 | [리프 노드 수](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | [파이썬](Programmers/Level2/leaf.py) |
 | 30 | BFS(Pruning) 활용, DP 활용 | [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | [파이썬](Programmers/Level2/crime.py) |
-| 30 | BFS 활용 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [파이썬](Programmers/Level2/ricochet.py) |
+| 31 | BFS 활용 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [파이썬](Programmers/Level2/ricochet.py) |
+| 32 | bin()함수 활용 | [가장 큰 수 문제 풀이](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/big-number.py) |
