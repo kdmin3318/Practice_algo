@@ -41,3 +41,4 @@
 | 35 | DP문제 풀이 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [파이썬](Programmers/Level2/land.py) |
 | 36 | 시뮬레이션 + 그리디 문제 풀이 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [파이썬](Programmers/Level2/mineral.py) |
 | 37 | set() 집합 탐색 활용 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [파이썬](Programmers/Level2/visit.py) |
+| 38 | set() 집합 + BF 풀이 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [파이썬](Programmers/Level2/continuous.py) |
