@@ -39,3 +39,4 @@
 | 33 | 수학적 이론(원과 원점사이 거리) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [파이썬](Programmers/Level2/dot.py) |
 | 34 | BFS 문제 풀이 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [파이썬](Programmers/Level2/change.py) |
 | 35 | DP문제 풀이 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [파이썬](Programmers/Level2/land.py) |
+| 36 | 시뮬레이션 + 그리디 문제 풀이 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [파이썬](Programmers/Level2/mineral.py) |
