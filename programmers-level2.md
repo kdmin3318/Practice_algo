@@ -44,3 +44,4 @@
 | 38 | set() 집합 + BF 풀이 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [파이썬](Programmers/Level2/continuous.py) |
 | 39 | 방향성을 포함한 DFS 문제 풀이 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [파이썬](Programmers/Level2/light.py) |
 | 40 | 우선순위 큐 + 그리디 문제 풀이 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [파이썬](Programmers/Level2/dense.py) |
+| 41 | 시뮬레이션 + 딕셔너리, queue | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [파이썬](Programmers/Level2/server.py) |
