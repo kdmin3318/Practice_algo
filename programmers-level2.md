@@ -46,3 +46,4 @@
 | 40 | 우선순위 큐 + 그리디 문제 풀이 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [파이썬](Programmers/Level2/dense.py) |
 | 41 | 시뮬레이션 + 딕셔너리, queue | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [파이썬](Programmers/Level2/server.py) |
 | 42 | 수학적 이론 + maht라이브러리 factorial함수 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [파이썬](Programmers/Level2/line.py) |
+| 43 | DP문제 풀이 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [파이썬](Programmers/Level2/square.py) |
