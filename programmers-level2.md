@@ -47,3 +47,4 @@
 | 41 | 시뮬레이션 + 딕셔너리, queue | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [파이썬](Programmers/Level2/server.py) |
 | 42 | 수학적 이론 + maht라이브러리 factorial함수 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [파이썬](Programmers/Level2/line.py) |
 | 43 | DP문제 풀이 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [파이썬](Programmers/Level2/square.py) |
+| 44 | 시뮬레이션 + 큐 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [파이썬](Programmers/Level2/truck.py) |
