@@ -49,3 +49,4 @@
 | 43 | DP문제 풀이 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [파이썬](Programmers/Level2/square.py) |
 | 44 | 시뮬레이션 + 큐 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [파이썬](Programmers/Level2/truck.py) |
 | 45 | bf풀이, 투 포인터, 수학적 이론 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [파이썬](Programmers/Level2/number.py) |
+| 46 | C#을 한문자로 + BF 풀이 | [(3차)방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [파이썬](Programmers/Level2/music.py) |
