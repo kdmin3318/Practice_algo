@@ -51,3 +51,4 @@
 | 45 | bf풀이, 투 포인터, 수학적 이론 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [파이썬](Programmers/Level2/number.py) |
 | 46 | C#을 한문자로 + BF 풀이 | [(3차)방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [파이썬](Programmers/Level2/music.py) |
 | 47 | stack 문제 풀이 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [파이썬](Programmers/Level2/behind-num.py) |
+| 48 | 중복순열(Product) + BF + 시뮬 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [파이썬](Programmers/Level2/emoticon.py) |
