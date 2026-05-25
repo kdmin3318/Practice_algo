@@ -53,3 +53,4 @@
 | 47 | stack 문제 풀이 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [파이썬](Programmers/Level2/behind-num.py) |
 | 48 | 중복순열(Product) + BF + 시뮬 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [파이썬](Programmers/Level2/emoticon.py) |
 | 49 | 투포인터 문제 풀이 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [파이썬](Programmers/Level2/boat.py) |
+| 50 | BF+BFS 문제 풀이, DP+BFS풀이 | [바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373) | [파이썬](Programmers/Level2/virus.py) |
