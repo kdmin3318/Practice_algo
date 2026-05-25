@@ -35,7 +35,7 @@
 | 29 | BFS(Pruning, Greedy)활용 | [리프 노드 수](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | [파이썬](Programmers/Level2/leaf.py) |
 | 30 | BFS(Pruning) 활용, DP 활용 | [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | [파이썬](Programmers/Level2/crime.py) |
 | 31 | BFS 활용 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [파이썬](Programmers/Level2/ricochet.py) |
-| 32 | bin()함수 활용 | [가장 큰 수 문제 풀이](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/big-number.py) |
+| 32 | bin()함수 활용 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/bigger.py) |
 | 33 | 수학적 이론(원과 원점사이 거리) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [파이썬](Programmers/Level2/dot.py) |
 | 34 | BFS 문제 풀이 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [파이썬](Programmers/Level2/change.py) |
 | 35 | DP문제 풀이 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [파이썬](Programmers/Level2/land.py) |
@@ -52,4 +52,3 @@
 | 46 | C#을 한문자로 + BF 풀이 | [(3차)방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [파이썬](Programmers/Level2/music.py) |
 | 47 | stack 문제 풀이 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [파이썬](Programmers/Level2/behind-num.py) |
 | 48 | 중복순열(Product) + BF + 시뮬 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [파이썬](Programmers/Level2/emoticon.py) |
-| 49 | bin()함수 활용, 비트 연산 풀이| [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/bigger.py) |
