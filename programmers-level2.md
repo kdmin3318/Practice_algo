@@ -52,3 +52,4 @@
 | 46 | C#을 한문자로 + BF 풀이 | [(3차)방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [파이썬](Programmers/Level2/music.py) |
 | 47 | stack 문제 풀이 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [파이썬](Programmers/Level2/behind-num.py) |
 | 48 | 중복순열(Product) + BF + 시뮬 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [파이썬](Programmers/Level2/emoticon.py) |
+| 49 | bin()함수 활용, 비트 연산 풀이| [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [파이썬](Programmers/Level2/bigger.py) |
