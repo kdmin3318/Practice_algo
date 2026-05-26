@@ -56,3 +56,4 @@
 | 50 | BF+BFS 문제 풀이, DP+BFS풀이 | [바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373) | [파이썬](Programmers/Level2/virus.py) |
 | 51 | BF + 시뮬레이션 문제 풀이 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [파이썬](Programmers/Level2/rotate-matrix.py) |
 | 52 | stack+queue 문제 풀이 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [파이썬](Programmers/Level2/rotate-bracket.py) |
+| 53 | 시뮬레이션 문제 풀이 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [파이썬](Programmers/Level2/dev.py) |
