@@ -59,3 +59,4 @@
 | 53 | 시뮬레이션 문제 풀이 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [파이썬](Programmers/Level2/dev.py) |
 | 54 | 시뮬레이션 문제 풀이 + 수학적 이론 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [파이썬](Programmers/Level2/cut-array.py) |
 | 55 | 그리디 문제 풀이 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [파이썬](Programmers/Level2/min.py) |
+| 56 | rfind()+그리디 문제 풀이, 비트연산자 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [파이썬](Programmers/Level2/other-bit.py) |
