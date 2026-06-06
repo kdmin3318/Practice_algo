@@ -58,3 +58,4 @@
 | 52 | stack+queue 문제 풀이 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [파이썬](Programmers/Level2/rotate-bracket.py) |
 | 53 | 시뮬레이션 문제 풀이 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [파이썬](Programmers/Level2/dev.py) |
 | 54 | 시뮬레이션 문제 풀이 + 수학적 이론 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [파이썬](Programmers/Level2/cut-array.py) |
+| 55 | 그리디 문제 풀이 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [파이썬](Programmers/Level2/min.py) |
