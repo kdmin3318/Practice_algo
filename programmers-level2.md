@@ -61,3 +61,4 @@
 | 55 | 그리디 문제 풀이 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [파이썬](Programmers/Level2/min.py) |
 | 56 | rfind()+그리디 문제 풀이, 비트연산자 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [파이썬](Programmers/Level2/other-bit.py) |
 | 57 | math라이브러리 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [파이썬](Programmers/Level2/lcm.py) |
+| 58 | 우선순위큐(heapq) 문제 풀이 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [파이썬](Programmers/Level2/scoville.py) |
