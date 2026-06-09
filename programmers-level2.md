@@ -66,3 +66,4 @@
 | 60 | 해시(Hash, set()) 문제 풀이 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [파이썬](Programmers/Level2/english.py) |
 | 61 | 딕셔너리 + 시뮬레이션 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [파이썬](Programmers/Level2/chat.py) |
 | 62 | 분할정복 문제 풀이(recursion) | [유사칸토어](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | [파이썬](Programmers/Level2/cantor.py) |
+| 63 | 시뮬레이션 문제 풀이 | [(PCCP 기출문제)3번/아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [파이썬](Programmers/Level2/clock.py) |
