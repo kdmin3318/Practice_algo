@@ -70,3 +70,4 @@ def solution(edges):
   dount_cnt = total_graphs - stick_cnt - eight_cnt
 
   return [created_node, dount_cnt, stick_cnt, eight_cnt]
+"""
