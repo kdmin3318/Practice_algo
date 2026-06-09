@@ -64,3 +64,4 @@
 | 58 | 우선순위큐(heapq) 문제 풀이 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [파이썬](Programmers/Level2/scoville.py) |
 | 59 | DFS문제 풀이, 다익스트라 문제풀이 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [파이썬](Programmers/Level2/delivery.py) |
 | 60 | 해시(Hash, set()) 문제 풀이 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [파이썬](Programmers/Level2/english.py) |
+| 61 | 딕셔너리 + 시뮬레이션 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [파이썬](Programmers/Level2/chat.py) |
