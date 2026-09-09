@@ -61,3 +61,4 @@
 | 55 | reverse()함수 활용 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [파이썬](Programmers/Level1/reverse.py) |
 | 56 | 수학공식 활용(유클리드 호제법, math) | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [파이썬](Programmers/Level1/gcd-lcm.py) |
 | 57 | 단순 문자열 합성 | [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [파이썬](Programmers/Level1/food.py) |
+| 58 | BF기초, 단순 수학공식 | [약수의 개수와 덧](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [파이썬](Programmers/Level1/count_div.py) |
