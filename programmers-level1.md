@@ -65,3 +65,4 @@
 | 59 | replace()활용 시뮬레이션 | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [파이썬](Programmers/Level1/babbling.py) |
 | 60 | replace()활용 시뮬레이션 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [파이썬](Programmers/Level1/eng_word.py) |
 | 61 | set()활용, combinations활용 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [파이썬](Programmers/Level1/two_num.py) |
+| 62 | dfs 기초 문 | [(PCCE 기출문제) 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [파이썬](Programmers/Level1/neighbor.py) |
