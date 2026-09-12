@@ -64,3 +64,4 @@
 | 58 | BF기초, 단순 수학공식 | [약수의 개수와 덧](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [파이썬](Programmers/Level1/count_div.py) |
 | 59 | replace()활용 시뮬레이션 | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [파이썬](Programmers/Level1/babbling.py) |
 | 60 | replace()활용 시뮬레이션 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [파이썬](Programmers/Level1/eng_word.py) |
+| 61 | set()활용, combinations활용 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [파이썬](Programmers/Level1/two_num.py) |
