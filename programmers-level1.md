@@ -67,3 +67,4 @@
 | 61 | set()활용, combinations활용 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [파이썬](Programmers/Level1/two_num.py) |
 | 62 | dfs 기초 문제 | [(PCCE 기출문제) 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [파이썬](Programmers/Level1/neighbor.py) |
 | 63 | Counter 활용 문제(집합) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [파이썬](Programmers/Level1/num_partner.py) |
+| 64 | 우선순위 큐 활용(heapq) | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [파이썬](Programmers/Level1/honor.py) |
