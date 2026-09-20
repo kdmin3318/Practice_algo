@@ -68,3 +68,4 @@
 | 62 | dfs 기초 문제 | [(PCCE 기출문제) 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [파이썬](Programmers/Level1/neighbor.py) |
 | 63 | Counter 활용 문제(집합) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [파이썬](Programmers/Level1/num_partner.py) |
 | 64 | 우선순위 큐 활용(heapq) | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [파이썬](Programmers/Level1/honor.py) |
+| 65 | index함수 + f-string | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [파이썬](Programmers/Level1/kim.py) |
