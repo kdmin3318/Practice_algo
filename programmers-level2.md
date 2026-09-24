@@ -68,3 +68,4 @@
 | 62 | 분할정복 문제 풀이(recursion) | [유사칸토어](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | [파이썬](Programmers/Level2/cantor.py) |
 | 63 | 시뮬레이션 문제 풀이 | [(PCCP 기출문제)3번/아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [파이썬](Programmers/Level2/clock.py) |
 | 64 | 시뮬 + 그리디 + DFS 문제 풀이 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [파이썬](Programmers/Level2/graph.py) |
+| 65 | 기초 DP, 변수 활용 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [파이썬](Programmers/Level2/finbonacci.py) |
