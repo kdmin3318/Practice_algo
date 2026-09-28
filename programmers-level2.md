@@ -70,3 +70,4 @@
 | 64 | 시뮬 + 그리디 + DFS 문제 풀이 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [파이썬](Programmers/Level2/graph.py) |
 | 65 | 기초 DP, 변수 활용 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [파이썬](Programmers/Level2/finbonacci.py) |
 | 66 | 해싱(Counter) 문제 풀이 | [할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [파이썬](Programmers/Level2/discount.py) |
+| 67 | 시뮬레이션 문제 풀이 | [(1차)프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [파이썬](Programmers/Level2/four_block.py) |
